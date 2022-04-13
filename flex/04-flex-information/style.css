@@ -4,6 +4,7 @@ body {
   flex-direction: column;
   align-items: center;
   gap: 32px;
+  text-align: center;
 }
 
 img {
@@ -18,6 +19,9 @@ img {
 
 .images {
   display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 52px;
 }
 
 /* do not edit this footer */
@@ -35,4 +39,5 @@ img {
 
 .barberry .chili .pepper .saffron {
   display: flex;
+  max-width: 200px;
 }
